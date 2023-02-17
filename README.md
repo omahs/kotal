@@ -108,7 +108,7 @@ Kotal documentation is available [here](https://docs.kotal.co)
 - [@kotalco](https://twitter.com/kotalco)
 - [mostafa@kotal.co](mailto:mostafa@kotal.co)
 
-## Contriubuting
+## Contributing
 
 TODO
 
